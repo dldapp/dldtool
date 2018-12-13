@@ -1,3 +1,5 @@
+![Image text](https://github.com/dldapp/dldtool/blob/master/dld.png)
+
 一款专为中国热爱任天堂明星大乱斗的玩家所打造的App。
 
 【角色介绍】详细的介绍每一个在大乱斗中参战的斗士，并且支持语音朗读。
